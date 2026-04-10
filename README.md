@@ -30,3 +30,8 @@ Performance: The model achieved approximately 66.84% training accuracy over 100 
 <p align="center">
   <img src="output.png" width="600" title="LSTM Model Output">
 </p>
+
+
+## 🚀 Deployment
+The application is live and can be accessed here:  
+🔗 **[Live Demo: Next Word Prediction with LSTM](https://lstm-rnn-project.streamlit.app/)**
